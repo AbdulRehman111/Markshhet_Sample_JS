@@ -1,0 +1,68 @@
+
+
+.header{
+   text-align: center;
+   width: 80%;
+    
+}
+.back2{
+    max-width: 80%;
+    min-width: 35%;
+    min-height: 640px;
+    max-height: 750px;
+       background-color:#32cd32;;
+   
+    margin: 0 auto ;
+
+}
+body{
+    
+    background-color: black;
+}
+table{
+    margin: 0 auto;
+    height: 100%;
+    max-width: 90%;
+       background-color: #6b8e23;
+    min-width: 95%;
+     border:5px solid black;
+}
+table td,th {
+    border:5px solid black;
+}
+.space{
+    font-weight: bold;
+    text-align: center;
+}
+.forAge{
+   margin-left: 60px;
+}
+.roll{
+    display: inline;
+    margin-left: 60px;
+}
+#schoolname{
+    font-weight: bold;
+    margin-left: 550px;
+    font-size: 28px;
+    color: #808000;
+}
+
+.titlee{
+  color: #808000;
+    margin-left:200px;
+}
+.ssc{
+     margin-left:200px;
+    color: #808000;
+}
+.sonof{
+    margin-left:200px;
+}
+#name{
+    margin-left:200px;
+}
+#fname{
+    margin-left:200px;
+}
+
